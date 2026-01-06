@@ -49,8 +49,8 @@ yarn-error.log*
 .env.production.local
 
 # Dataset files (optional - remove if you want to include data)
-*.csv
-data/
+# *.csv
+# data/
 
 # Model files (optional - remove if you want to include trained models)
 *.pkl
